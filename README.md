@@ -1,15 +1,14 @@
-![pc](https://user-images.githubusercontent.com/82732587/150899623-8c7a8b23-ad67-4f07-8d1d-3f2b228357a7.gif)
+![pc](https://user-images.githubusercontent.com/82732587/155041575-8afb2300-26f6-4cf1-a9fb-733b4c9d7770.gif)
+
 
 ## 💻 Projeto
 
-Node-todo-Api, criando um API de tarefa simples.
-
+Node-todo-Api, criando um API de tarefa 
 
 ## 🧱 Tecnologias
 
 + NodeJs(Express)
 + TypeScript
-+ JavaScript
 + PostgreSQL
 
 ## ✨ Executar localmente
@@ -23,7 +22,7 @@ git clone https://github.com/FabioPenedo/node-todo-api
 Entre na pasta do projeto
 
 ```bash
-cd crud-tsnode
+cd node-todo-api
 ```
 
 Instale as dependências globais
@@ -41,10 +40,10 @@ npm install
 Váriaveis de ambiente, .env.example: 
 
 ```bash
-PG_DB=   *Nome do banco de dados*
-PG_USER=   *Nome do usuário no banco de dados*
-PG_PASSWORD=   *Senha do usuário no banco de dados*
-PG_PORT=   *Porta do banco de dados*
+PG_DB=   Nome do banco de dados
+PG_USER=   Nome do usuário no banco de dados
+PG_PASSWORD=   Senha do usuário no banco de dados
+PG_PORT=   Porta do banco de dados
 ```
 
 Inicie o servidor
